@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CardsDeck
+comment1.params=
+comment1.target=CardsDeck()
+comment2.params=
+comment2.target=Card\ getRandomCard()
+numComments=3
